@@ -48,9 +48,9 @@ mycelium-growth/
 
 ### Example
 
-   - Images in 00_curve_segments_images: (S0_F1_0_0.jpg) Sample 0, Face 1, Segment 0, Growth Hour 0
-   - Images in 01_skin_scans_outer_curves: (S1_F1_0_Skin.jpg) Sample 1, Face 1, Segment 0
-   - Images in 02_skin_scans_infill: (S3_0_Infill.jpg) Sample 3, Segment 0
+   - Images in folder (00_curve_segments_images): (S0_F1_0_0.jpg) Sample 0, Face 1, Segment 0, Growth Hour 0
+   - Images in folder (01_skin_scans_outer_curves): (S1_F1_0_Skin.jpg) Sample 1, Face 1, Segment 0
+   - Images in folder (02_skin_scans_infill): (S3_0_Infill.jpg) Sample 3, Segment 0
 
 ## General Information
 

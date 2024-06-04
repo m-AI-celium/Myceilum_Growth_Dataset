@@ -1,4 +1,4 @@
-# Mycelium Growth and Structural Compression Dataset
+# Mycelium Growth and Structural Compression Datasets
 
 This repository contains a dataset for monitoring mycelium growth, including images, geometrical parametres and structural testing data. The dataset was created as part of a thesis project within the [Integrative Technologies and Architectural Design Research](https://www.itech.uni-stuttgart.de/) ITECH MSc. Program at the [University of Stuttgart](https://www.uni-stuttgart.de/) in 2023.
 

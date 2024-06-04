@@ -7,7 +7,7 @@ This repository contains a dataset for monitoring mycelium growth, including ima
 ![overview](https://github.com/HussamAG/Myceilum_Growth/blob/main/overview.jpg)
 
 ## Directory Structure
-
+```
 mycelium-growth/
 |
 |00_growth_dataset/
@@ -45,7 +45,7 @@ mycelium-growth/
 |
 |-- README.md
 |-- LICENSE
-
+```
 ## Naming Convention
 
 ### Example

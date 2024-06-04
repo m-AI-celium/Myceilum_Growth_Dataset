@@ -50,9 +50,9 @@ mycelium-growth/
 
 ### Example
 
-    * Images in 00_curve_segments_images: (S0_F1_0_0.jpg) Sample 0, Face 1, Segment 0, Growth Hour 0
-    * Images in 01_skin_scans_outer_curves: (S1_F1_0_Skin.jpg) Sample 1, Face 1, Segment 0
-    * Images in 02_skin_scans_infill: (S3_0_Infill.jpg) Sample 3, Segment 0
+   - Images in 00_curve_segments_images: (S0_F1_0_0.jpg) Sample 0, Face 1, Segment 0, Growth Hour 0
+   - Images in 01_skin_scans_outer_curves: (S1_F1_0_Skin.jpg) Sample 1, Face 1, Segment 0
+   - Images in 02_skin_scans_infill: (S3_0_Infill.jpg) Sample 3, Segment 0
 
 ## General Information
 
@@ -60,11 +60,11 @@ This dataset was created by Hussamaldeen Gomaa, Yara Karazi, and Wai Man Chau, s
 
 ## Contributors and Acknowledgements
 
-    * Contributors: Hussamaldeen Gomaa, Yara Karazi, Wai Man Chau, Eliza Biala, Zuardin Akbar.
-    * Supervisors: Eliza Biala, Zuardin Akbar, Thomas Wortmann, Martin Ostermann.
-    * Funding: Partially funded by BMBF "Ideenwettbewerbs Biologisierung der Technik" (grant number 13XP5154) and the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany’s Excellence Strategy – EXC 2120/1 – 390831618.
-    * Tzu-Ying Chen: structural testing assistance, Mai Thi Nguyen: lab experimentation support, Michael Schneider and Andreas Kulla: sample post-processing.
-    *All laboratory experiments and sample production were conducted at the Future Matter Lab (FUMA), part of the IBK, University of Stuttgart.
+   - Contributors: Hussamaldeen Gomaa, Yara Karazi, Wai Man Chau, Eliza Biala, Zuardin Akbar.
+   - Supervisors: Eliza Biala, Zuardin Akbar, Thomas Wortmann, Martin Ostermann.
+   - Funding: Partially funded by BMBF "Ideenwettbewerbs Biologisierung der Technik" (grant number 13XP5154) and the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany’s Excellence Strategy – EXC 2120/1 – 390831618.
+   - Tzu-Ying Chen: structural testing assistance, Mai Thi Nguyen: lab experimentation support, Michael Schneider and Andreas Kulla: sample post-processing.
+   - All laboratory experiments and sample production were conducted at the Future Matter Lab (FUMA), part of the IBK, University of Stuttgart.
 
 ## License
 

@@ -9,42 +9,42 @@ This repository contains a dataset for monitoring mycelium growth, including ima
 ## Directory Structure
 
 mycelium-growth/
-│
-├── 00_growth_dataset/
-│   ├── 00_curve_segments_images/
-│   │   ├── S0_F1_0_0.jpg
-│   │   ├── S1_F1_1_2.jpg
-│   │   └── ...
-│   ├── 01_skin_scans_outer_curves/
-│   │   ├── S0_F1_0_Skin.jpg
-│   │   ├── S1_F1_1_Skin.jpg
-│   │   └── ...
-│   └── 02_skin_scans_infill/
-│       ├── S0_0_Infill.jpg
-│       ├── S1_1_Infill.jpg
-│       └── ...
-│
-├── 01_structural_dataset/
-│   ├── 00_samples_parameters.csv
-│   ├── 00_samples_compression_test/
-│   │   ├── 0.csv
-│   │   ├── 1.csv
-│   │   └── ...
-│   └── README.md
-│
-├── 02_raw_skin_scans/
-│   ├── raw_skin_scan1.jpg
-│   ├── raw_skin_scan2.jpg
-│   └── ...
-│
-├── 03_raw_growth_images/
-│   ├── raw_growth_image1.jpg
-│   ├── raw_growth_image2.jpg
-│   └── ...
-│
-│
-├── README.md
-└── LICENSE
+|
+|00_growth_dataset/
+|   | 00_curve_segments_images/
+|   |   |-- S0_F1_0_0.jpg
+|   |   |-- S1_F1_1_2.jpg
+|   |   |-- ...
+|   |-- 01_skin_scans_outer_curves/
+|   |   |-- S0_F1_0_Skin.jpg
+|   |   |-- S1_F1_1_Skin.jpg
+|   |   |-- ...
+|   |-- 02_skin_scans_infill/
+|       |-- S0_0_Infill.jpg
+|       |-- S1_1_Infill.jpg
+|       |-- ...
+|
+|-- 01_structural_dataset/
+|   |-- 00_samples_parameters.csv
+|   |-- 00_samples_compression_test/
+|   |   |-- 0.csv
+|   |   |-- 1.csv
+|   |   |-- ...
+|   |-- README.md
+|
+|-- 02_raw_skin_scans/
+|   |-- raw_skin_scan1.jpg
+|   |-- raw_skin_scan2.jpg
+|   |-- ...
+|
+|-- 03_raw_growth_images/
+|   |-- raw_growth_image1.jpg
+|   |-- raw_growth_image2.jpg
+|   |-- ...
+|
+|
+|-- README.md
+|-- LICENSE
 
 ## Naming Convention
 

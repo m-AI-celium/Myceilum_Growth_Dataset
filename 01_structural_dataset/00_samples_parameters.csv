@@ -1,4 +1,4 @@
-﻿Specimen,Length/mm,Width/mm,Height/mm,CS Area/ Sq.mm,Def. Length/mm,Def. Width/mm,Infill Distance/mm,Amplitude/mm,Curve Radius/mm,Log10 Radius,Area sq.mm
+﻿Specimen,Length/mm,Width/mm,Height/mm,CS Area/ Sq.mm,Deformed Length/mm,Deformed Width/mm,Infill Distance/mm,Amplitude/mm,Curve Radius/mm,Log10 Radius,Toatal Area sq.mm
 2,230,185,44,14492.57,232,190,83.24,34.1,13.2,1.12,166501.29
 3,215,163,51,11491.75,221,165,54.43,35.1,4.5,0.66,190872.17
 5,190,160,55,21330.4,225,166,21.91,38.1,1.5,0.17,290131.85

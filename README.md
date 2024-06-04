@@ -30,7 +30,6 @@ mycelium-growth/
 |   |   |-- 0.csv
 |   |   |-- 1.csv
 |   |   |-- ...
-|   |-- README.md
 |
 |-- 02_raw_skin_scans/
 |   |-- raw_skin_scan1.jpg
@@ -41,7 +40,6 @@ mycelium-growth/
 |   |-- raw_growth_image1.jpg
 |   |-- raw_growth_image2.jpg
 |   |-- ...
-|
 |
 |-- README.md
 |-- LICENSE

@@ -60,11 +60,13 @@ This dataset was created by Hussamaldeen Gomaa, Yara Karazi, and Wai Man Chau, s
 
 ## Contributors and Acknowledgements
 
-   - Contributors: Hussamaldeen Gomaa, Yara Karazi, Wai Man Chau, Eliza Biala, Zuardin Akbar.
+   - Main contributors: Hussamaldeen Gomaa, Yara Karazi, Wai Man Chau, Eliza Biala, Zuardin Akbar.
    - Supervisors: Eliza Biala, Zuardin Akbar, Thomas Wortmann, Martin Ostermann.
-   - Funding: Partially funded by BMBF "Ideenwettbewerbs Biologisierung der Technik" (grant number 13XP5154) and the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany’s Excellence Strategy – EXC 2120/1 – 390831618.
-   - Tzu-Ying Chen: structural testing assistance, Mai Thi Nguyen: lab experimentation support, Michael Schneider and Andreas Kulla: sample post-processing.
+   - Additional contributors: Tzu-Ying Chen: structural testing assistance, Mai Thi Nguyen: lab experimentation support, Michael Schneider and Andreas Kulla: sample post-processing.
    - All laboratory experiments and sample production were conducted at the Future Matter Lab (FUMA), part of the IBK, University of Stuttgart.
+
+### Funding
+Partially funded by BMBF "Ideenwettbewerbs Biologisierung der Technik" (grant number 13XP5154) and the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany’s Excellence Strategy – EXC 2120/1 – 390831618.
 
 ## License
 

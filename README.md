@@ -54,7 +54,7 @@ mycelium-growth/
 
 ## General Information
 
-This dataset was created by Hussamaldeen Gomaa, Yara Karazi, and Wai Man Chau, supervised by Eliza Biala and Zuardin Akbar, under the [ITECH MSc. Program](https://www.itech.uni-stuttgart.de/) at the University of Stuttgart in 2023. The collaboration involved the Institute for Computational Design and Construction (ICD), the Institute of Building Structures and Structural Design (ITKE), and the Institute for Building Construction (IBK).
+This dataset was created by Hussamaldeen Gomaa, Yara Karazi, and Wai Man Chau, supervised by Eliza Biala and Zuardin Akbar, under the [ITECH MSc. Program](https://www.itech.uni-stuttgart.de/) at the University of Stuttgart in 2023. The collaboration involved the Department for Computing in Architecture at the Institute for Computational Design and Construction (ICD/CA), the Institute of Building Structures and Structural Design (ITKE), and the Institute for Building Construction (IBK).
 
 ## Contributors and Acknowledgements
 
